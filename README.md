@@ -63,6 +63,22 @@ This data offers a comparative view of cricket teams' batting performance, provi
 
 ### Struggling Teams
 - **Ireland :** kohli has a significantly low average of 4.5, highlighting considerable difficulties in their batting performance.
-- **Scotland**  kohli has the lowest average at 2, indicating major challenges and poor performance in batting.
+- **Scotland :**  kohli has the lowest average at 2, indicating major challenges and poor performance in batting.
+
+
+# Virat Kohli's Performance Metrics: Strike Rate and Average Throughout 2010-2024
+
+![image](https://github.com/user-attachments/assets/31cc3603-64dd-4bb6-a572-312daecb1668)
+
+
+## Analysis of Virat Kohli’s Performance (2010-2024)
+
+- **2010-2014:** Kohli displayed high strike rates with notable peaks in 2011 (109.44) and 2014 (131.44), while his averages varied significantly. In 2014, he achieved a remarkable average of 55.00, demonstrating exceptional performance.
+- **2015-2019:** Kohli’s strike rates remained consistently high, peaking at 139.56 in 2017, showcasing his aggressive batting style. His averages improved in 2019 (46.60), although there were fluctuations, including a lower average of 22.00 in 2015.
+- **2020-2024:** Kohli’s performance shows more variability. The strike rate remained strong, with a peak of 136.74 in 2020, but his average dipped significantly in 2024 to 14.50. This suggests a recent decline in consistency and performance.
+
+## Summary
+
+**From 2010 to 2024, Virat Kohli demonstrated a highly aggressive batting style with peak strike rates, particularly notable in 2017 (139.56) and 2020 (136.74). His batting average reached an exceptional high of 55.00 in 2014, but has shown significant variability, culminating in a lower average of 14.50 in 2024, reflecting recent performance challenges.**
 
 
