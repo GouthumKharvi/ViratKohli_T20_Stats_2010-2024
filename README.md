@@ -744,13 +744,109 @@ To explore how these wicket counts and their implications vary against different
 
 
 
+# Kohli’s Highest Scores at Different Venues
+
+### Overview
+This analysis highlights Virat Kohli’s top individual scores at various cricket venues. Each venue is associated with Kohli’s highest recorded score, reflecting his ability to perform at his best across different playing conditions.
+
+### Venue Analysis
+
+- **Dubai (DSC)**
+  - **High Score:** 122
+  - **Analysis:** Dubai (DSC) stands out as the venue where Kohli scored his highest individual total of 122 runs. This exceptional performance indicates Kohli's ability to excel in conditions that may have been challenging for other players.
+
+- **Hyderabad**
+  - **High Score:** 94
+  - **Analysis:** In Hyderabad, Kohli achieved a high score of 94. This innings demonstrates his capacity to accumulate runs effectively, even in competitive match situations.
+
+- **Adelaide**
+  - **High Score:** 90
+  - **Analysis:** Adelaide is notable for Kohli’s high score of 90. His performance here showcases his proficiency in adapting to different pitches and conditions to deliver a substantial score.
+
+- **Wankhede**
+  - **High Score:** 89
+  - **Analysis:** Kohli's score of 89 at Wankhede reflects his strong batting prowess. The relatively high score highlights his skill in handling varied match situations and pitches.
+
+- **Sydney**
+  - **High Score:** 85
+  - **Analysis:** At Sydney, Kohli scored 85 runs. This performance indicates his consistent ability to perform well on different international venues, contributing significantly to his team’s totals.
+
+- **Mohali**
+  - **High Score:** 82
+  - **Analysis:** Kohli’s high score of 82 in Mohali showcases his capability to make a notable impact at this venue, demonstrating his adaptability and skill.
+
+- **Colombo (RPS)**
+  - **High Score:** 82
+  - **Analysis:** In Colombo (RPS), Kohli also scored 82 runs. This reflects his consistent performance across different venues and his ability to perform well under various conditions.
+
+- **Melbourne**
+  - **High Score:** 82
+  - **Analysis:** Kohli’s score of 82 in Melbourne indicates his strong batting performance in this venue. It highlights his ability to achieve high scores in diverse international settings.
+
+- **Ahmedabad**
+  - **High Score:** 80
+  - **Analysis:** In Ahmedabad, Kohli scored 80 runs. This performance illustrates his effectiveness in leveraging the conditions to achieve a high score.
+
+- **Mirpur**
+  - **High Score:** 77
+  - **Analysis:** Kohli’s highest score of 77 at Mirpur reflects his ability to accumulate runs despite potentially challenging conditions.
+
+    ![image](https://github.com/user-attachments/assets/92b48622-49b6-4643-ba45-a3e0778e5993)
+
+
+### Summary
+
+**Virat Kohli’s highest scores across these venues showcase his remarkable ability to perform at his best in various cricketing conditions. Each venue presents unique challenges, and Kohli's top scores highlight his adaptability and consistency in delivering significant innings across different locations.**
+
+
+![image](https://github.com/user-attachments/assets/1f3ffa82-cf49-4a2a-8a3c-2c00a62eca24)
 
 
 
+## Virat Kohli’s T20 Performances (2010-2024)
+
+### Performance Summary
+
+- **Total Runs:**
+  - **4037 Runs**
+  - **Analysis:** Virat Kohli has amassed a total of 4037 runs in T20 Internationals from 2010 to 2024. This impressive total underscores his consistency and ability to score heavily across numerous matches.
+
+- **Total Matches Played:**
+  - **109 Matches**
+  - **Analysis:** Kohli has played 109 T20 International matches during this period. His extensive experience in T20 cricket reflects his sustained performance and adaptability in the shortest format of the game.
+
+- **Kohli’s Average Run:**
+  - **37.04**
+  - **Analysis:** Kohli’s batting average of 37.04 in T20 Internationals indicates a high level of consistency and reliability. This average suggests that he frequently contributes significant runs, maintaining a solid performance across various matches.
+
+- **Kohli’s Highest Score:**
+  - **122**
+  - **Analysis:** Kohli’s highest score in T20 Internationals is 122 runs. This top score highlights his ability to play exceptional innings and capitalize on favorable conditions to achieve a substantial individual total.
+
+- **Kohli’s Lowest Run:**
+  - **0**
+  - **Analysis:** Kohli’s lowest score of 0 reflects the occasional challenges he faces in T20 matches. Despite this, his overall performance remains strong, as evidenced by his high total runs and average.
+
+### Using the Slicer Feature
+
+To gain deeper insights into Kohli’s performances, including his scores and dismissals against different opposition teams, you can utilize the slicer feature available in the provided `.xlsx` file. The slicer allows you to filter and view:
+
+- **Performance Against Specific Teams:** See how Kohli’s scores, averages, and other performance metrics vary against different opposition teams.
+- **Detailed Analysis:** Explore his high and low scores, average runs, and performance trends by selecting specific teams from the slicer.
+
+**To access these detailed insights:**
+1. Open the `.xlsx` file using Excel on your desktop.
+2. Use the slicer feature to filter the data by opposition teams and examine Kohli’s performance in detail.
+
+   ![image](https://github.com/user-attachments/assets/d71828d8-4179-475a-95ba-3d8e304e2d7c)
 
 
+**Summary**
+
+**Virat Kohli’s T20 International performance from 2010 to 2024 demonstrates his exceptional batting skills, with a total of 4037 runs, an average of 37.04, and a highest score of 122. While he has encountered some challenges, as reflected by his lowest score of 0, his overall performance remains outstanding. The slicer feature in the provided Excel file will allow you to explore his performance against various teams, offering a comprehensive view of his contributions in T20 cricket.**
 
 
+![image](https://github.com/user-attachments/assets/104d78b0-ba86-499f-9b66-af0fd0c5ac61)
 
 
 
