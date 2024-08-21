@@ -537,6 +537,16 @@ The following data lists Virat Kohli’s lowest individual scores in matches pla
 
 
 
+## Run Rate Dynamics: Kohli's Runs Scored Relative to Balls Faced
+
+### Overview
+
+This analysis focuses on **Virat Kohli's run rate dynamics**, examining how his runs scored compare to the number of balls he has faced in various innings. This metric helps understand Kohli's scoring efficiency and his ability to convert balls faced into runs.
+
+![image](https://github.com/user-attachments/assets/5fa6f3a9-23f0-40ae-880a-4d4fdb851ffc)
+
+![image](https://github.com/user-attachments/assets/576e57f7-fdcb-4158-ad95-a1bfa708c217)
+
 
 
 
