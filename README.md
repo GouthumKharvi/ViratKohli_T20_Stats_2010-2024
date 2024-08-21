@@ -34,3 +34,6 @@ Kohli’s remarkable statistics reflect his dedication to excellence and consist
 **Average:** A higher average signifies greater reliability and consistency, embodying Kohli’s principle that “consistency is key” in achieving sustained success.
 
 This data offers a comparative view of cricket teams' batting performance, providing insights into their strengths and areas for improvement relative to some of the best individual performances in cricket.
+
+![image](https://github.com/user-attachments/assets/7e7c8a9f-63de-4088-9526-e40310c98b92)
+
