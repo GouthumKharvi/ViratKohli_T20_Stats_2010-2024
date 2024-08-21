@@ -850,6 +850,112 @@ To gain deeper insights into Kohli’s performances, including his scores and di
 
 
 
+# Virat Kohli’s T20 Half-Centuries and Centuries
+
+### Performance Summary
+
+- **Half-Centuries:**
+  - **Total: 37**
+  - **Analysis:** Virat Kohli has scored 37 half-centuries (50 or more runs but less than 100) in T20 Internationals. This significant number of half-centuries reflects his consistent ability to make substantial contributions to the team by crossing the 50-run mark in many innings.
+
+- **Centuries:**
+  - **Total: 1**
+  - **Analysis:** Kohli has achieved one century (100 or more runs) in T20 Internationals. This solitary century highlights a remarkable individual performance, underscoring his capability to reach and surpass the 100-run milestone in the T20 format.
+
+    ![image](https://github.com/user-attachments/assets/bd3713be-7e38-466c-94ce-50f8693fbba7)
+
+
+### Summary
+
+**Virat Kohli’s record in T20 Internationals showcases his prolific batting ability with 37 half-centuries and 1 century. His consistent performance in scoring half-centuries demonstrates his reliability in contributing significant runs, while the century reflects his potential to deliver exceptional individual innings.**
+
+
+
+## Virat Kohli’s T20 Half-Centuries and Centuries by Country
+
+### Performance Breakdown
+
+- **Australia:**
+  - **Half-Centuries:** 8
+  - **Centuries:** 0
+  - **Analysis:** Kohli has scored 8 half-centuries against Australia in T20 Internationals. Despite his consistent performance, he has not yet scored a century against them.
+
+- **West Indies:**
+  - **Half-Centuries:** 6
+  - **Centuries:** 0
+  - **Analysis:** Against the West Indies, Kohli has achieved 6 half-centuries. Like with Australia, he has not reached a century in T20 Internationals against the West Indies.
+
+- **England:**
+  - **Half-Centuries:** 5
+  - **Centuries:** 0
+  - **Analysis:** Kohli has scored 5 half-centuries against England, showcasing his solid performances, though he has not scored a century against them.
+
+- **Pakistan:**
+  - **Half-Centuries:** 5
+  - **Centuries:** 0
+  - **Analysis:** Kohli has recorded 5 half-centuries against Pakistan. He has not yet achieved a century in T20 Internationals against Pakistan.
+
+- **Sri Lanka:**
+  - **Half-Centuries:** 4
+  - **Centuries:** 0
+  - **Analysis:** Against Sri Lanka, Kohli has scored 4 half-centuries. There are no centuries recorded against this team in T20 Internationals.
+
+- **Bangladesh:**
+  - **Half-Centuries:** 2
+  - **Centuries:** 0
+  - **Analysis:** Kohli has scored 2 half-centuries against Bangladesh. He has not achieved a century against them in T20 matches.
+
+- **South Africa:**
+  - **Half-Centuries:** 2
+  - **Centuries:** 0
+  - **Analysis:** Kohli has made 2 half-centuries against South Africa. As with several other teams, he has not scored a century against South Africa.
+
+- **New Zealand:**
+  - **Half-Centuries:** 2
+  - **Centuries:** 0
+  - **Analysis:** Kohli has achieved 2 half-centuries against New Zealand. He has not reached a century against this team in T20 Internationals.
+
+- **Afghanistan:**
+  - **Half-Centuries:** 1
+  - **Centuries:** 1
+  - **Analysis:** Against Afghanistan, Kohli has both a half-century and a century. This highlights a notable performance where he reached the 100-run mark in addition to scoring a half-century.
+
+- **Hong Kong:**
+  - **Half-Centuries:** 1
+  - **Centuries:** 0
+  - **Analysis:** Kohli has scored 1 half-century against Hong Kong. There are no centuries recorded against this team in T20 Internationals.
+
+- **Netherlands:**
+  - **Half-Centuries:** 1
+  - **Centuries:** 0
+  - **Analysis:** Kohli has made 1 half-century against the Netherlands. He has not scored a century in T20 matches against them.
+
+- **Scotland:**
+  - **Half-Centuries:** 0
+  - **Centuries:** 0
+  - **Analysis:** Kohli has not scored any half-centuries or centuries against Scotland in T20 Internationals.
+
+- **Zimbabwe:**
+  - **Half-Centuries:** 0
+  - **Centuries:** 0
+  - **Analysis:** Kohli has not achieved any half-centuries or centuries against Zimbabwe in T20 Internationals.
+
+- **Ireland:**
+  - **Half-Centuries:** 0
+  - **Centuries:** 0
+  - **Analysis:** Kohli has not recorded any half-centuries or centuries against Ireland in T20 matches.
+
+    ![image](https://github.com/user-attachments/assets/64a94e5c-1eff-4dd3-affb-ab416768da59)
+
+    ![image](https://github.com/user-attachments/assets/69ebfb2b-9ccd-46ab-8e88-bfc1dc3ba639)
+
+
+
+### Summary
+
+**Virat Kohli’s T20 International performances against various countries show a pattern of consistent half-centuries, with notable high scores against teams like Australia and West Indies. His single century against Afghanistan stands out, highlighting a significant individual achievement. The absence of half-centuries and centuries against teams like Scotland, Zimbabwe, and Ireland indicates that Kohli has not yet recorded significant performances against these sides.**
+
+![image](https://github.com/user-attachments/assets/840b4581-5d1f-4538-b33a-fb14754d196c)
 
 
 
