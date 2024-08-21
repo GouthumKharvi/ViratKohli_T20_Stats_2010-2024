@@ -37,3 +37,32 @@ This data offers a comparative view of cricket teams' batting performance, provi
 
 ![image](https://github.com/user-attachments/assets/7e7c8a9f-63de-4088-9526-e40310c98b92)
 
+![image](https://github.com/user-attachments/assets/79782f98-dbf3-4956-b629-4ba7fdd1ecee)
+
+
+![image](https://github.com/user-attachments/assets/9791fefc-e513-405a-8a53-05c2e7e63f9e)
+
+
+## Key Notes
+
+### Top Performers
+- **Netherlands** Kohli has the highest batting average at 62, indicating exceptional performance and consistency.
+- **Hong Kong** follows closely with an average of 59, also showing strong batting performance.
+
+### High Averages
+- **Afghanistan** kohli has a notable average of 50.25, reflecting solid and consistent batting.
+- **Pakistan** and **Sri Lanka** have high averages of 48.8 and 48.43, respectively, demonstrating their strong batting capabilities.
+
+### Mid-Range Averages
+- **West Indies** kohli has an average of 43.85, which is strong but lower than the top teams.
+- **Bangladesh** (38.6) and **Australia** (37.81) also have respectable averages, showing good performance levels.
+
+### Lower Averages
+- **England** and **New Zealand** kohli have lower averages at 31.95 and 31.1, indicating moderate batting performance compared to the higher averages.
+- **South Africa** (26.5) and **Zimbabwe** (26) show even lower averages, suggesting less consistent performance.
+
+### Struggling Teams
+- **Ireland** kohli has a significantly low average of 4.5, highlighting considerable difficulties in their batting performance.
+- **Scotland**  kohli has the lowest average at 2, indicating major challenges and poor performance in batting.
+
+
