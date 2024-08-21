@@ -550,8 +550,197 @@ This analysis focuses on **Virat Kohli's run rate dynamics**, examining how his 
 
 
 
+# Analysis of Virat Kohli’s Performance by Batting Order
+
+This analysis provides insights into Virat Kohli’s performance across different batting positions, focusing on the total runs scored and the number of wickets lost at each position.
+
+### Batting Order Analysis
+
+1. **Batting Order 1:**
+   - **Total Runs Scored:** 119
+   - **Wickets Lost:** 5
+   - **Analysis:** Kohli has scored 119 runs while batting in the first position, with 5 wickets lost. This position has seen relatively fewer runs compared to other positions, indicating less frequent use as an opening batsman.
+
+2. **Batting Order 2:**
+   - **Total Runs Scored:** 281
+   - **Wickets Lost:** 4
+   - **Analysis:** With 281 runs and 4 wickets lost, Kohli’s performance in the second position is notable. It reflects a decent run-scoring ability with a moderate number of wickets lost.
+
+3. **Batting Order 3:**
+   - **Total Runs Scored:** 3,076
+   - **Wickets Lost:** 80
+   - **Analysis:** This is Kohli’s most significant position, with 3,076 runs scored and 80 wickets lost. His performance at this position is exemplary, highlighting his role as a key batsman in the middle order.
+
+4. **Batting Order 4:**
+   - **Total Runs Scored:** 509
+   - **Wickets Lost:** 17
+   - **Analysis:** Kohli has scored 509 runs at the fourth position, with 17 wickets lost. This position shows a solid performance, though not as dominant as the third position.
+
+5. **Batting Order 5:**
+   - **Total Runs Scored:** 26
+   - **Wickets Lost:** 1
+   - **Analysis:** With only 26 runs and 1 wicket lost, Kohli’s performance at the fifth position is minimal. This suggests limited opportunities or fewer innings at this position.
+
+6. **Batting Order 6:**
+   - **Total Runs Scored:** 26
+   - **Wickets Lost:** 2
+   - **Analysis:** Similar to the fifth position, Kohli has scored 26 runs with 2 wickets lost at the sixth position. This indicates rare use or fewer opportunities at this position.
+  
+     ![image](https://github.com/user-attachments/assets/5999967f-6d4f-4da7-8faa-8fbc9fd0bcaf)
 
 
+### Summary
+
+**Virat Kohli’s performance across different batting orders highlights his significant impact as a middle-order batsman. The third position stands out with the highest total runs and is crucial to his batting career, while the fifth and sixth positions show limited contributions. The analysis underscores Kohli's effectiveness and role predominantly in the top to middle order.**
+
+![image](https://github.com/user-attachments/assets/5079dda4-b98e-4e5b-97eb-d455424e35b9)
+
+
+
+# Kohli’s Innings Comparison: First vs. Second Innings
+
+### Overview
+
+This analysis compares Virat Kohli's total runs scored in the first and second innings across various matches. The data highlights Kohli’s performance trends and provides insights into his run-scoring abilities in different innings.
+
+### Innings Comparison
+
+- **First Innings:**
+  - **Total Runs Scored:** 2,025
+  - **Analysis:** Kohli has accumulated a total of 2,025 runs in the first innings. This reflects his ability to build substantial innings and contribute significantly at the start of the game.
+
+- **Second Innings:**
+  - **Total Runs Scored:** 2,012
+  - **Analysis:** Kohli has scored 2,012 runs in the second innings. Although slightly lower than his first innings total, this still represents a strong performance, showcasing his capability to score runs effectively in varied match situations.
+
+### Additional Insights
+
+To delve deeper into Kohli's performance against different opposition teams in these innings, you can utilize the slicer feature available in the provided `.xlsx` file. This will allow you to explore and compare his run-scoring details against various teams in both innings.
+
+**To access these detailed insights, please open the `.xlsx` file using Excel on your desktop. The slicer feature will help you filter and view Kohli's performance by opposition team.**
+![image](https://github.com/user-attachments/assets/318225f5-0e77-4ab1-bf7e-1a665faee2fd)
+
+
+### Summary
+
+**Virat Kohli's performance in the first innings (2,025 runs) is slightly higher compared to the second innings (2,012 runs). This comparison highlights his consistent ability to score runs in both innings, reflecting his overall effectiveness and adaptability in different match situations.**
+
+
+
+# Kohli’s Innings Comparison: Strike Rate and Average
+
+### Overview
+
+This analysis compares Virat Kohli's Strike Rate (SR) and batting Average in the first and second innings across various matches. These metrics provide insights into his scoring efficiency and consistency in different innings.
+
+### Performance Metrics
+
+- **First Innings:**
+  - **Strike Rate (SR):** 114.78
+  - **Average:** 32.14
+  - **Analysis:** In the first innings, Kohli maintains a Strike Rate of 114.78, indicating a fairly aggressive scoring rate. His batting Average in the first innings is 32.14, reflecting a solid level of performance and consistency.
+
+- **Second Innings:**
+  - **Strike Rate (SR):** 133.84
+  - **Average:** 43.74
+  - **Analysis:** Kohli’s Strike Rate in the second innings is higher at 133.84, showcasing a more aggressive approach and quicker scoring. His batting Average in the second innings is also notably higher at 43.74, demonstrating greater consistency and effectiveness during these innings.
+
+### Additional Insights
+
+To explore Kohli’s performance further, including how his strike rate and average vary against different opposition teams, you can utilize the slicer feature available in the provided `.xlsx` file. This will help you filter and analyze his performance by opposition team across different innings.
+
+**To access these detailed insights, please open the `.xlsx` file using Excel on your desktop. The slicer feature will allow you to view and compare Kohli’s performance metrics against various teams.**
+
+![image](https://github.com/user-attachments/assets/36e0c7f2-d5e8-47ea-b7ea-8394eef876d5)
+
+### Summary
+
+**Virat Kohli’s performance metrics show a higher Strike Rate and Average in the second innings (SR: 133.84, Average: 43.74) compared to the first innings (SR: 114.78, Average: 32.14). This indicates a more aggressive and consistent scoring ability in the second innings, reflecting his adaptability and effectiveness in varied match situations.**
+
+
+![image](https://github.com/user-attachments/assets/7b367e77-c82a-4da2-b76a-76fa53bfec5e)
+
+
+# Kohli’s Boundaries Comparison: First vs. Second Innings
+
+### Overview
+
+This analysis compares the number of boundaries hit by Virat Kohli in the first and second innings. Specifically, it looks at the total counts of fours (4s) and sixes (6s) scored in these innings.
+
+### Performance Metrics
+
+- **First Innings:**
+  - **Count of 4s:** 63
+  - **Count of 6s:** 63
+  - **Analysis:** In the first innings, Kohli has hit 63 fours and 63 sixes. This shows a balanced boundary-scoring ability, with a significant number of both types of boundaries. His performance indicates a strong ability to score quickly and effectively in the initial innings.
+
+- **Second Innings:**
+  - **Count of 4s:** 46
+  - **Count of 6s:** 46
+  - **Analysis:** In the second innings, Kohli has hit 46 fours and 46 sixes. Although the number of boundaries is lower compared to the first innings, this still reflects a consistent boundary-scoring performance. The reduction in boundaries might indicate a different approach or match conditions in the second innings.
+
+### Additional Insights
+
+For a more detailed analysis of how Kohli’s boundary-hitting performance varies against different opposition teams in each innings, you can use the slicer feature in the provided `.xlsx` file. This will help you filter and explore his boundary-scoring details across different matches and teams.
+
+**To access these insights, please open the `.xlsx` file using Excel on your desktop. The slicer feature will allow you to view and compare Kohli’s boundary statistics against various teams.**
+
+![image](https://github.com/user-attachments/assets/2682409c-3b22-4d32-b199-6b40de11add8)
+
+
+### Summary
+
+**Virat Kohli’s boundary statistics show a higher count of fours and sixes in the first innings (63 each) compared to the second innings (46 each). This indicates a more aggressive boundary-hitting performance in the first innings, with a slightly lower but still effective boundary-scoring rate in the second innings. This comparison provides insight into Kohli’s ability to hit boundaries and his approach in different innings.**
+
+
+
+# Important Notes on Wicket Counts Across Venues
+
+### Mirpur
+- **Wickets Count:**
+  - **First Innings:** 3
+  - **Second Innings:** 7
+- **Analysis:** Mirpur has seen a high number of wickets, with more dismissals in the second innings compared to the first. For a batsman like Virat Kohli, who thrives under challenging conditions, the higher wicket count in the second innings indicates a more difficult batting environment, particularly in the latter stages of the game.
+
+### Dubai (DSC)
+- **Wickets Count:**
+  - **First Innings:** 6
+  - **Second Innings:** 2
+- **Analysis:** In Dubai, Kohli faced a significant number of wickets in the first innings, suggesting a challenging start. The lower wicket count in the second innings reflects a possible improvement in batting conditions as the game progresses. Kohli’s ability to adapt would be crucial in such varying conditions between innings.
+
+### Sydney
+- **Wickets Count:**
+  - **First Innings:** 1
+  - **Second Innings:** 5
+- **Analysis:** Sydney presents a scenario where conditions might become more favorable for bowlers as the game progresses, with more wickets falling in the second innings. Kohli’s skill in adapting to changing conditions would be essential in such matches where the pitch may increasingly favor bowlers later in the game.
+
+### Colombo (RPS)
+- **Wickets Count:**
+  - **First Innings:** 4
+  - **Second Innings:** 2
+- **Analysis:** Colombo shows a relatively stable but still challenging environment with consistent wicket counts across both innings. Kohli’s proficiency in maintaining composure and adjusting his play would be advantageous in a setting where conditions remain challenging but predictable.
+
+### Melbourne
+- **Wickets Count:**
+  - **First Innings:** 2
+  - **Second Innings:** 2
+- **Analysis:** Melbourne's balanced wicket count in both innings indicates a pitch that doesn’t overly favor bowlers or batsmen. Kohli’s technique and experience would be beneficial in such conditions where the pitch remains even throughout the match.
+
+### Additional Insights
+
+To explore how these wicket counts and their implications vary against different opposition teams, you can use the slicer feature available in the provided `.xlsx` file. This feature allows you to filter and view Kohli’s performance and wicket counts by specific teams and venues.
+
+**To access these detailed insights, please open the `.xlsx` file using Excel on your desktop. The slicer feature will help you analyze and compare Kohli’s wicket counts across various venues and against different opposition teams, providing a comprehensive view of his performance.**
+
+![image](https://github.com/user-attachments/assets/65ec75e6-6f5c-4f1c-a34b-0f99759a6532)
+
+
+### Summary
+
+**Virat Kohli’s performance across different venues reveals how varying wicket counts impact his batting. High wicket counts at certain venues, such as Mirpur and Dubai, suggest more challenging conditions, while balanced counts at places like Melbourne indicate a more even playing field. Understanding these patterns helps assess Kohli’s adaptability and performance in diverse match scenarios.**
+
+
+![image](https://github.com/user-attachments/assets/e58e80e6-d539-4179-bbdf-c9ae0213049c)
 
 
 
