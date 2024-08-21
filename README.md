@@ -191,6 +191,56 @@ The data below categorizes the different types of dismissals experienced by Vira
 **To analyze Kohli's types of dismissals in T20 International cricket against different teams, use the slicer features in the provided `.xlsx` file.** Open the file using Excel on your desktop, and you will be able to filter and view his dismissal types by opposition team. This will provide detailed insights into his performance against various teams.
 
 
+# Analysis of Duck Outs
+
+The data below details instances where Virat Kohli was dismissed without scoring any runs, commonly referred to as "ducks":
+
+- **Bowled:** 1 duck
+  - Kohli was dismissed for a duck by being bowled once. This indicates the ball hit the stumps and he was out without scoring.
+
+- **Caught:** 4 ducks
+  - Kohli was dismissed for a duck by being caught out on 4 occasions. In these cases, he was dismissed after the ball was caught by a fielder or the wicketkeeper without having scored.
+ 
+    ![image](https://github.com/user-attachments/assets/f182579c-32d7-4f6c-a07c-dc31c8a92ece)
+
+
+## Summary
+
+**In this dataset, Virat Kohli has recorded 1 duck from being bowled and 4 ducks from being caught out. All these dismissals occurred without him scoring any runs, highlighting his total count of ducks in these situations.**
+
+
+![image](https://github.com/user-attachments/assets/2ebbefdd-02ed-43ca-83b9-e463b20417fd)
+
+
+# Analysis of Duckout Dismissals by Opposition
+
+The data below shows the number of times Virat Kohli was dismissed for a duck against various teams:
+
+- **Afghanistan:** 1 dismissal
+  - Kohli was dismissed for a duck against Afghanistan, meaning he did not score any runs in that match.
+
+- **Australia:** 1 dismissal
+  - Kohli was dismissed for a duck against Australia, indicating he was out without scoring in that game.
+
+- **England:** 1 dismissal
+  - Kohli was dismissed for a duck against England, reflecting a match where he did not add to his score.
+
+- **Ireland:** 1 dismissal
+  - Kohli was dismissed for a duck against Ireland, meaning he failed to score any runs in this encounter.
+
+- **Sri Lanka:** 1 dismissal
+  - Kohli was dismissed for a duck against Sri Lanka, showing that he was out without scoring in this match.
+ 
+    ![image](https://github.com/user-attachments/assets/3e6b244f-67e8-49b2-b692-eaf751b1f416)
+
+
+## Summary
+
+**Virat Kohli has been dismissed for a duck once against each of the following teams: Afghanistan, Australia, England, Ireland, and Sri Lanka. This indicates that in each of these matches, he was out without scoring any runs.**
+
+
+![image](https://github.com/user-attachments/assets/fbfb575e-aee5-4b14-871d-009e2bcb0738)
+
 
 
 
