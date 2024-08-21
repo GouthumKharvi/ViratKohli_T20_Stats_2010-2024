@@ -128,3 +128,30 @@ This data offers a comparative view of cricket teams' batting performance, provi
 
 **To explore the slicer features for detailed analysis, please open the `.xlsx` file included in this project using Excel on your desktop.** The slicers will help you filter and view Kohli’s yearly runs against different teams effectively.
 
+## Analysis of Virat Kohli’s 4s and 6's (2010-2024)
+
+- **2010:** Kohli faced 21 balls, hitting 3 fours and 1 six, indicating a brief but effective performance.
+- **2011:** With 52 balls faced, he scored 10 fours but did not hit any sixes, reflecting a more steady but less explosive performance.
+- **2012:** Kohli had a prolific year with 355 balls faced, hitting 57 fours and 7 sixes, showcasing his aggressive and consistent batting.
+- **2013:** He faced 22 balls with 2 fours and 1 six, indicating a short and modest performance period.
+- **2014:** Kohli faced 288 balls, scoring 33 fours and 11 sixes, demonstrating a strong and balanced attacking approach.
+- **2015:** His performance included 28 balls faced, 1 four, and 3 sixes, reflecting a lower volume of play but with some big hits.
+- **2016:** Kohli faced 457 balls, with 70 fours and 9 sixes, highlighting one of his most dominant years in terms of boundary hitting.
+- **2017:** He faced 196 balls, hitting 32 fours and 8 sixes, showing a strong year with a balanced attack.
+- **2018:** Kohli faced 173 balls, with 10 fours and 8 sixes, indicating a period of fewer boundaries but consistent hitting.
+- **2019:** He faced 315 balls, hitting 29 fours and a notable 23 sixes, reflecting a highly aggressive and impactful year.
+- **2020:** Kohli faced 208 balls, scoring 18 fours and 10 sixes, maintaining a strong performance with good boundary hitting.
+- **2021:** He faced 225 balls, hitting 25 fours and 10 sixes, showing consistency in performance.
+- **2022:** Kohli had an exceptional year with 565 balls faced, 66 fours, and 26 sixes, marking one of his best years in terms of boundary hitting and overall performance.
+- **2024:** Kohli faced 17 balls, hitting 5 fours but no sixes, indicating a minimal and less impactful performance.
+
+  ![image](https://github.com/user-attachments/assets/604b1187-398c-4e4a-8238-58f271f92026)
+
+
+## Summary
+
+**From 2010 to 2024, Virat Kohli’s performance in terms of balls faced, fours, and sixes demonstrates significant variability. His most productive years include 2012, 2016, and 2022, with high numbers of balls faced and boundaries. Notably, 2022 stands out with 565 balls faced, 66 fours, and 26 sixes, showcasing a peak in his boundary-hitting ability. Conversely, years such as 2010, 2013, and 2024 show lower engagement with fewer balls faced and boundaries, reflecting periods of lesser impact.**
+
+![image](https://github.com/user-attachments/assets/25ac28d9-b5d4-40d4-a0a4-f24a76081773)
+
+**To explore the slicer features for detailed analysis, please open the `.xlsx` file included in this project using Excel on your desktop.** The slicers will help you filter and view Kohli’s yearly 4s and 6s yearly and ball faced  against different teams effectively.
