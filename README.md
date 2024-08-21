@@ -958,7 +958,306 @@ To gain deeper insights into Kohli’s performances, including his scores and di
 ![image](https://github.com/user-attachments/assets/840b4581-5d1f-4538-b33a-fb14754d196c)
 
 
+# Virat Kohli’s Strike Rates and Average Across Indian Venues
+
+### Performance Metrics
+
+- **Hyderabad:**
+  - **Average:** 78.5
+  - **Strike Rate:** 159.63
+  - **Analysis:** Kohli has an impressive average and a high strike rate in Hyderabad, indicating a strong performance and aggressive batting in this venue.
+
+- **Chennai:**
+  - **Average:** 70
+  - **Strike Rate:** 170.73
+  - **Analysis:** Kohli’s high average and strike rate in Chennai reflect his exceptional performance and aggressive batting style in this venue.
+
+- **Wankhede:**
+  - **Average:** 65.67
+  - **Strike Rate:** 206.91
+  - **Analysis:** Wankhede shows one of Kohli’s highest strike rates, combined with a strong average, suggesting a very successful and aggressive batting record.
+
+- **Mohali:**
+  - **Average:** 52
+  - **Strike Rate:** 109.27
+  - **Analysis:** Kohli has a solid average in Mohali with a moderate strike rate, indicating consistent performance but with less aggression compared to other venues.
+
+- **Mirpur:**
+  - **Average:** 47.2
+  - **Strike Rate:** 117.91
+  - **Analysis:** Mirpur features a decent average and strike rate, showing Kohli’s ability to perform reliably with moderate aggression.
+
+- **Rajkot:**
+  - **Average:** 47
+  - **Strike Rate:** 143.29
+  - **Analysis:** Kohli maintains a good average with a strong strike rate in Rajkot, reflecting his ability to score well while maintaining aggressive batting.
+
+- **Dharamsala:**
+  - **Average:** 43
+  - **Strike Rate:** 159.25
+  - **Analysis:** Kohli’s performance in Dharamsala includes a decent average with a high strike rate, indicating aggressive and effective batting.
+
+- **Ahmedabad:**
+  - **Average:** 43
+  - **Strike Rate:** 102.15
+  - **Analysis:** Ahmedabad shows a balanced average with a relatively lower strike rate compared to other venues, reflecting a more controlled batting approach.
+
+- **Eden Gardens:**
+  - **Average:** 34.75
+  - **Strike Rate:** 124.99
+  - **Analysis:** Kohli’s performance in Eden Gardens features a lower average with a moderate strike rate, indicating variable performance.
+
+- **Indore:**
+  - **Average:** 29.5
+  - **Strike Rate:** 178.86
+  - **Analysis:** Despite a lower average, Kohli’s high strike rate in Indore shows aggressive batting.
+
+- **Kanpur:**
+  - **Average:** 29
+  - **Strike Rate:** 111.53
+  - **Analysis:** Kanpur displays a lower average with a moderate strike rate, reflecting less notable performance.
+
+- **Delhi:**
+  - **Average:** 26
+  - **Strike Rate:** 236.36
+  - **Analysis:** Kohli’s highest strike rate in Delhi suggests extremely aggressive batting, though his average is relatively low.
+
+- **Guwahati:**
+  - **Average:** 24.5
+  - **Strike Rate:** 87.5
+  - **Analysis:** Guwahati features both a lower average and strike rate, indicating less effective performance.
+
+- **Visakhapatnam:**
+  - **Average:** 24
+  - **Strike Rate:** 141.17
+  - **Analysis:** Despite a low average, Kohli’s strike rate in Visakhapatnam shows aggressive batting.
+
+- **Pune:**
+  - **Average:** 23.5
+  - **Strike Rate:** 138.23
+  - **Analysis:** Pune presents a lower average with a decent strike rate, showing effective yet less aggressive batting.
+
+- **Ranchi:**
+  - **Average:** 22
+  - **Strike Rate:** 157.14
+  - **Analysis:** Kohli’s performance in Ranchi includes a lower average but high strike rate, reflecting aggressive batting.
+
+- **Bengaluru:**
+  - **Average:** 19.33
+  - **Strike Rate:** 80.21
+  - **Analysis:** Bengaluru shows lower performance metrics, both in average and strike rate, indicating less effective performance.
+
+- **Nagpur:**
+  - **Average:** 18.33
+  - **Strike Rate:** 136.17
+  - **Analysis:** Kohli’s lower average with a relatively high strike rate in Nagpur suggests an aggressive but less consistent performance.
+
+- **Thiruvananthapuram:**
+  - **Average:** 11.67
+  - **Strike Rate:** 120.58
+  - **Analysis:** Thiruvananthapuram shows low average and moderate strike rate, reflecting a less effective performance.
+
+- **Cuttack:**
+  - **Average:** 1
+  - **Strike Rate:** 100
+  - **Analysis:** Kohli has a very low average in Cuttack with a moderate strike rate, indicating limited success at this venue.
+ 
+    ![image](https://github.com/user-attachments/assets/ab39f7cc-7c72-47c5-8b16-29eab63cdb9b)
 
 
+### Summary
+
+**Virat Kohli’s performance across various Indian venues shows a range of averages and strike rates. He has excelled in venues like Hyderabad, Chennai, and Wankhede with high averages and strike rates, reflecting strong and aggressive batting. Conversely, venues like Cuttack, Bengaluru, and Guwahati show lower averages and strike rates, indicating less effective performances. This diverse performance data highlights Kohli’s adaptability and varying success levels across different grounds in India.**
+
+
+# Virat Kohli’s Batting Strike Rates and Averag Across Venues Outside India
+
+### Performance Metrics
+
+- **Pallekele:**
+  - **Average:** 68
+  - **Strike Rate:** 141.66
+  - **Analysis:** Kohli has an impressive average and strike rate in Pallekele, indicating excellent performance and aggressive batting in this venue.
+
+- **Adelaide:**
+  - **Average:** 68
+  - **Strike Rate:** 144.69
+  - **Analysis:** Similar to Pallekele, Adelaide features a high average and strike rate, showing Kohli’s exceptional performance and aggressive style.
+
+- **Providence:**
+  - **Average:** 59
+  - **Strike Rate:** 131.11
+  - **Analysis:** Providence shows a strong average with a good strike rate, reflecting consistent and effective batting.
+
+- **Sydney:**
+  - **Average:** 53.33
+  - **Strike Rate:** 139.89
+  - **Analysis:** Kohli performs well in Sydney with a high average and strike rate, indicating effective and aggressive batting.
+
+- **Melbourne:**
+  - **Average:** 49.5
+  - **Strike Rate:** 141.66
+  - **Analysis:** Melbourne features a high average and strike rate, demonstrating Kohli’s solid and aggressive batting performance.
+
+- **Cardiff:**
+  - **Average:** 47
+  - **Strike Rate:** 123.68
+  - **Analysis:** Cardiff shows a decent average and strike rate, reflecting Kohli’s stable performance with moderate aggression.
+
+- **Colombo (RPS):**
+  - **Average:** 44.5
+  - **Strike Rate:** 113.6
+  - **Analysis:** Colombo (RPS) has a reasonable average with a lower strike rate, indicating effective batting with less aggression.
+
+- **Bristol:**
+  - **Average:** 43
+  - **Strike Rate:** 148.27
+  - **Analysis:** Bristol features a good average and high strike rate, suggesting aggressive and effective performance.
+
+- **Dubai (DSC):**
+  - **Average:** 43
+  - **Strike Rate:** 105.33
+  - **Analysis:** Dubai (DSC) shows a solid average with a moderate strike rate, reflecting Kohli’s consistent performance.
+
+- **Kingston:**
+  - **Average:** 39
+  - **Strike Rate:** 177.27
+  - **Analysis:** Kingston presents a high strike rate despite a lower average, indicating aggressive batting.
+
+- **Hamilton:**
+  - **Average:** 38
+  - **Strike Rate:** 140.74
+  - **Analysis:** Hamilton features a decent average with a high strike rate, showing aggressive and effective batting.
+
+- **Birmingham:**
+  - **Average:** 33.5
+  - **Strike Rate:** 97.15
+  - **Analysis:** Kohli’s performance in Birmingham includes a lower average and strike rate, suggesting less aggressive batting.
+
+- **Auckland:**
+  - **Average:** 28
+  - **Strike Rate:** 116.14
+  - **Analysis:** Auckland shows a lower average with a moderate strike rate, reflecting less effective performance.
+
+- **Durban:**
+  - **Average:** 28
+  - **Strike Rate:** 147.36
+  - **Analysis:** Durban features a low average with a high strike rate, indicating aggressive but less consistent batting.
+
+- **Harare:**
+  - **Average:** 26
+  - **Strike Rate:** 123.8
+  - **Analysis:** Harare has a modest average and strike rate, showing stable but not standout performance.
+
+- **Johannesburg:**
+  - **Average:** 26
+  - **Strike Rate:** 130
+  - **Analysis:** Johannesburg shows a lower average with a reasonable strike rate, reflecting effective but not exceptional performance.
+
+- **Lauderhill:**
+  - **Average:** 21
+  - **Strike Rate:** 121.67
+  - **Analysis:** Kohli’s performance in Lauderhill includes a lower average and moderate strike rate, indicating less effective batting.
+
+- **Port of Spain:**
+  - **Average:** 14
+  - **Strike Rate:** 116.66
+  - **Analysis:** Port of Spain features a low average but a decent strike rate, reflecting a challenging batting environment.
+
+- **Perth:**
+  - **Average:** 12
+  - **Strike Rate:** 109.09
+  - **Analysis:** Perth shows a low average with a moderate strike rate, indicating less effective performance.
+
+- **Manchester:**
+  - **Average:** 12
+  - **Strike Rate:** 85.45
+  - **Analysis:** Manchester presents both a low average and strike rate, showing less effective and aggressive batting.
+
+- **Wellington:**
+  - **Average:** 11
+  - **Strike Rate:** 122.22
+  - **Analysis:** Kohli’s performance in Wellington includes a low average with a higher strike rate, indicating aggressive batting despite limited success.
+
+- **Nottingham:**
+  - **Average:** 11
+  - **Strike Rate:** 183.33
+  - **Analysis:** Nottingham features a low average with an exceptionally high strike rate, suggesting aggressive batting with limited success.
+
+- **Canberra:**
+  - **Average:** 9
+  - **Strike Rate:** 100
+  - **Analysis:** Canberra shows a low average with a moderate strike rate, reflecting less effective performance.
+
+- **Dublin (Malahide):**
+  - **Average:** 4.5
+  - **Strike Rate:** 56.25
+  - **Analysis:** Dublin (Malahide) presents a very low average and strike rate, indicating significant challenges for Kohli.
+
+- **Brisbane:**
+  - **Average:** 4
+  - **Strike Rate:** 50
+  - **Analysis:** Brisbane features a low average and strike rate, reflecting a challenging batting environment.
+
+- **Centurion:**
+  - **Average:** 1
+  - **Strike Rate:** 20
+  - **Analysis:** Centurion shows the lowest average and strike rate, indicating major difficulties and a challenging environment for Kohli.
+
+    ![image](https://github.com/user-attachments/assets/4bf4000f-a069-44b6-b7df-be724216498d)
+
+
+### Summary
+
+**Virat Kohli’s performance across various venues outside India shows a wide range of averages and strike rates. He has excelled in venues like Pallekele, Adelaide, and Providence with high averages and strike rates, reflecting strong and aggressive batting. Conversely, venues like Centurion, Brisbane, and Dublin (Malahide) present lower averages and strike rates, indicating significant challenges and less effective performance. This diverse data highlights Kohli’s adaptability and varying success levels across different international grounds.**
+
+
+## Comparison of Kohli’s Performance: India vs. Outside India
+
+### Highest Average Runs
+- **Outside India:**
+  - **Pallekele:** 68
+  - **Adelaide:** 68
+- **India:**
+  - **Hyderabad:** 78.5
+  - **Chennai:** 70
+
+- **Analysis:** Kohli has scored the highest average runs in Indian venues, specifically in Hyderabad with 78.5 and Chennai with 70, compared to Pallekele and Adelaide with 68 outside India.
+
+### Highest Strike Rate
+- **Outside India:**
+  - **Nottingham:** 183.33
+  - **Sydney:** 139.89
+- **India:**
+  - **Wankhede:** 206.91
+  - **Indore:** 178.86
+
+- **Analysis:** Kohli has achieved his highest strike rate at Wankhede in India with 206.91 and Indore with 178.86, surpassing the highest strike rates outside India, which are in Nottingham (183.33) and Sydney (139.89).
+
+### Lowest Average Runs
+- **Outside India:**
+  - **Centurion:** 1
+  - **Dublin (Malahide):** 4.5
+- **India:**
+  - **Cuttack:** 1
+
+- **Analysis:** Kohli’s lowest average runs are 1 at Cuttack in India, which is comparable to Centurion (1) outside India, but lower than Dublin (Malahide) at 4.5.
+
+### Lowest Strike Rate
+- **Outside India:**
+  - **Centurion:** 20
+  - **Dublin (Malahide):** 56.25
+- **India:**
+  - **Cuttack:** 100
+
+- **Analysis:** Kohli’s lowest strike rate is 100 at Cuttack in India, which is higher compared to Centurion (20) and Dublin (Malahide) (56.25) outside India.
+
+### Summary
+- **Highest Average Runs:** Kohli scores more runs on average in Indian venues compared to outside India.
+- **Highest Strike Rate:** Kohli's highest strike rates are achieved in Indian venues, particularly at Wankhede and Indore.
+- **Lowest Average Runs:** The lowest average runs are comparable in both settings, with extremely low averages observed in specific venues.
+- **Lowest Strike Rate:** Kohli’s lowest strike rates are notably lower outside India, particularly at Centurion and Dublin (Malahide).
+
+**This analysis highlights Kohli’s generally stronger performances in Indian venues with higher averages and strike rates compared to his performances outside India. However, his ability to adapt is evident as he has also managed notable performances abroad despite varying conditions.**
 
 
