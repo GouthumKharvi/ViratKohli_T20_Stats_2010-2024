@@ -1,4 +1,7 @@
-**#Virat Kohli's Complete T20 Performance Analysis (2010-2024)**
+<p align="center">
+  <span style="font-size: 24px; font-weight: bold;">📊 Virat Kohli's Complete T20 Performance Analysis (2010-2024)</span>
+</p>
+
 
 
 
