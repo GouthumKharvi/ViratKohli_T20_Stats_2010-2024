@@ -1261,3 +1261,72 @@ To gain deeper insights into Kohli’s performances, including his scores and di
 **This analysis highlights Kohli’s generally stronger performances in Indian venues with higher averages and strike rates compared to his performances outside India. However, his ability to adapt is evident as he has also managed notable performances abroad despite varying conditions.**
 
 
+
+# Excel Functions for Data Analysis
+
+## VLOOKUP
+- **Description**: `VLOOKUP` is used to search for a value in the first column of a range and return a value in the same row from another column.
+- **Example**: 
+  - **Country**: Zimbabwe, South Africa, Afghanistan, New Zealand
+  - **Runs**: 26, 56, 112, 14
+
+  ### Explanation of `=VLOOKUP("Afghanistan", R14:S17, 2, FALSE)`
+
+- **`VLOOKUP`**: This is the function name, which stands for "Vertical Lookup." It searches for a value in the first column of a table and returns a value in the same row from a specified column.
+
+- **`"Afghanistan"`**: This is the **lookup_value**. It specifies the value you want to find in the first column of the table. In this case, you're searching for the value "Afghanistan."
+
+- **`R14:S17`**: This is the **table_array**. It defines the range of cells that contains the data you want to search through. Here, the table is located in the range from cell `R14` to `S17`, where:
+  - Column `R` contains the values you want to search for ("Afghanistan").
+  - Column `S` contains the values you want to retrieve.
+
+- **`2`**: This is the **col_index_num**. It specifies the column number in the table_array from which to retrieve the value. In this case, `2` means you want to get the value from the second column of the specified range (column `S`).
+
+- **`FALSE`**: This is the **range_lookup**. Setting this to `FALSE` means you want an exact match for "Afghanistan." If `FALSE` is used, VLOOKUP will only return a value if it finds an exact match. If no exact match is found, it will return an error.
+
+### Summary
+
+The formula `=VLOOKUP("Afghanistan", R14:S17, 2, FALSE)` searches for "Afghanistan" in the first column of the range `R14:S17`. Once it finds "Afghanistan", it retrieves the corresponding value from the second column of that range (column `S`). If "Afghanistan" is not found, it will return an error.
+
+
+### SUMIF
+- **Description**: `SUMIF` adds up the numbers in a range based on a specific condition or criteria.
+- **Formula**: `SUMIF(range, criteria, [sum_range])`
+- **Example**: 
+  - **Function**: Adds runs scored by Virat Kohli when he played at position 3, excluding other batting positions.
+  - **Result**: 3076
+
+### SUMIFS
+- **Description**: `SUMIFS` adds up the numbers in a range based on multiple conditions or criteria.
+- **Formula**: `SUMIFS(sum_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)`
+- **Example**: 
+  - **Function**: Calculates runs scored by Virat Kohli when he played at position 3 against South Africa, excluding other batting positions and countries.
+  - **Result**: 290
+
+### AVERAGEIF
+- **Description**: `AVERAGEIF` calculates the average of numbers in a range based on a specific condition or criteria.
+- **Formula**: `AVERAGEIF(range, criteria, [average_range])`
+- **Example**: 
+  - **Function**: Averages the runs scored by Virat Kohli when he played at position 3, excluding other batting positions.
+  - **Result**: 38.45
+
+### AVERAGEIFS
+- **Description**: `AVERAGEIFS` calculates the average of numbers in a range based on multiple conditions or criteria.
+- **Formula**: `AVERAGEIFS(average_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)`
+- **Example**: 
+  - **Function**: Averages the runs scored by Virat Kohli when he played at position 3, considering multiple conditions.
+  - **Result**: 36.25
+
+### COUNTIF
+- **Description**: `COUNTIF` counts the number of cells in a range that meet a specific condition or criteria.
+- **Formula**: `COUNTIF(range, criteria)`
+- **Example**: 
+  - **Function**: Counts the number of times Virat Kohli scored greater than or equal to 90 runs.
+  - **Result**: 3
+
+### COUNTIFS
+- **Description**: `COUNTIFS` counts the number of cells in a range that meet multiple conditions or criteria.
+- **Formula**: `COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2], ...)`
+- **Example**: 
+  - **Function**: Counts the number of times Virat Kohli scored greater than or equal to 50 runs, with the condition that the dismissal type is "caught."
+  - **Result**: 11
