@@ -207,6 +207,7 @@ This data offers a comparative view of cricket teams' batting performance, provi
 - **Ireland :** kohli has a significantly low average of 4.5, highlighting considerable difficulties in their batting performance.
 - **Scotland :**  kohli has the lowest average at 2, indicating major challenges and poor performance in batting.
 
+---
 
 # Virat Kohli's Performance Metrics: Strike Rate and Average Throughout 2010-2024
 
@@ -237,7 +238,7 @@ This data offers a comparative view of cricket teams' batting performance, provi
 **From 2010 to 2024, Virat Kohli’s batting averages have shown considerable fluctuations. After a notable peak in 2014 with an average of 55.00, his performance varied with highs and lows. Recent years, especially 2024, have seen a significant drop to an average of 14.50, reflecting recent challenges in his batting performance.**
 
 ![image](https://github.com/user-attachments/assets/5f7e95cf-d79d-49c9-97a8-7c07ebe191dc)
-
+---
 
 ## Analysis of Virat Kohli’s Yearly Runs (2010-2024)
 
@@ -269,6 +270,7 @@ This data offers a comparative view of cricket teams' batting performance, provi
 ## Accessing Slicer Features
 
 **To explore the slicer features for detailed analysis, please open the `.xlsx` file included in this project using Excel on your desktop.** The slicers will help you filter and view Kohli’s yearly runs against different teams effectively.
+---
 
 ## Analysis of Virat Kohli’s 4s and 6's (2010-2024)
 
