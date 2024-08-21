@@ -383,3 +383,83 @@ The following data lists Virat Kohli’s highest individual scores in matches pl
 
 **Virat Kohli’s lowest scores across various Indian cities range from ducks (0 runs) in Ahmedabad, Guwahati, and Bengaluru to a highest low of 70 runs in Chennai. The data highlights a range of low performances, with some cities showing notably high scores as the lowest. Kohli has experienced a mix of very low scores and more substantial performances, reflecting his overall consistency and occasional struggles in different conditions.**
 
+
+# **Analysis of Virat Kohli’s Highest Scores Outside India**
+
+The following data lists Virat Kohli’s highest individual scores in matches played across various international venues, arranged from the highest to the lowest score:
+
+- **Dubai (DSC):** 122 runs
+  - Kohli’s highest score outside India is 122 runs in Dubai, demonstrating a standout performance.
+
+- **Adelaide:** 90 runs
+  - In Adelaide, Kohli scored 90 runs, reflecting a high level of performance.
+
+- **Sydney:** 85 runs
+  - His highest score in Sydney is 85 runs, showing a strong performance.
+
+- **Colombo (RPS):** 82 runs
+  - Kohli also scored 82 runs at the R.Premadasa Stadium in Colombo, indicating another excellent performance.
+
+- **Melbourne:** 82 runs
+  - His top score in Melbourne is 82 runs, demonstrating a high level of performance.
+
+- **Birmingham:** 66 runs
+  - Kohli’s highest score in Birmingham is 66 runs, showing a solid performance.
+
+- **Providence:** 59 runs
+  - His highest score in Providence is 59 runs, reflecting a strong performance.
+
+- **Cardiff:** 47 runs
+  - Kohli scored 47 runs in Cardiff, indicating a respectable performance.
+
+- **Auckland:** 45 runs
+  - His top score in Auckland is 45 runs, demonstrating a solid performance.
+
+- **Bristol:** 43 runs
+  - Kohli scored 43 runs in Bristol, reflecting a decent performance.
+
+- **Kingston:** 39 runs
+  - His highest score in Kingston is 39 runs, showing a good performance.
+
+- **Hamilton:** 38 runs
+  - Kohli’s highest score in Hamilton is 38 runs, indicating a respectable performance.
+
+- **Durban:** 28 runs
+  - In Durban, Kohli scored 28 runs, reflecting a moderate performance.
+
+- **Lauderhill:** 28 runs
+  - His highest score in Lauderhill is also 28 runs, showing consistent performance.
+
+- **Harare:** 26 runs
+  - Kohli’s highest score in Harare is 26 runs, indicating a moderate performance.
+
+- **Johannesburg:** 26 runs
+  - His top score in Johannesburg is 26 runs, showing a similar performance to Harare.
+
+- **Port of Spain:** 14 runs
+  - Kohli scored 14 runs in Port of Spain, reflecting a lower performance.
+
+- **Perth:** 12 runs
+  - His highest score in Perth is 12 runs, indicating a lower performance.
+
+- **Nottingham:** 11 runs
+  - Kohli’s highest score in Nottingham is 11 runs, showing a low performance.
+
+- **Wellington:** 11 runs
+  - He also scored 11 runs in Wellington, reflecting a similar low performance.
+
+- **Canberra:** 9 runs
+  - His highest score in Canberra is 9 runs, showing a very low performance.
+
+- **Dublin (Malahide):** 9 runs
+  - Kohli scored 9 runs in Dublin (Malahide), reflecting a similar low performance.
+
+- **Brisbane:** 4 runs
+  - His highest score in Brisbane is 4 runs, indicating a very low performance.
+
+- **Centurion:** 1 run
+  - Kohli’s lowest score outside India is 1 run in Centurion, marking his poorest performance in this dataset.
+
+## Summary
+
+**Virat Kohli’s highest scores outside India show a wide range of performances, with his best being 122 runs in Dubai. Other notable high scores include 90 runs in Adelaide and 85 runs in Sydney. The data also highlights several lower scores, with his lowest being just 1 run in Centurion. This analysis reflects Kohli’s ability to perform at various international venues, showcasing his highest and lowest performances.**
