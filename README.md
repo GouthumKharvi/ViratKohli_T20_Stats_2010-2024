@@ -77,8 +77,22 @@ This data offers a comparative view of cricket teams' batting performance, provi
 - **2015-2019:** Kohli’s strike rates remained consistently high, peaking at 139.56 in 2017, showcasing his aggressive batting style. His averages improved in 2019 (46.60), although there were fluctuations, including a lower average of 22.00 in 2015.
 - **2020-2024:** Kohli’s performance shows more variability. The strike rate remained strong, with a peak of 136.74 in 2020, but his average dipped significantly in 2024 to 14.50. This suggests a recent decline in consistency and performance.
 
+  ![image](https://github.com/user-attachments/assets/9b794ed5-0ac3-43cc-a990-16b9b1fb0382)
+
+
 ## Summary
 
 **From 2010 to 2024, Virat Kohli demonstrated a highly aggressive batting style with peak strike rates, particularly notable in 2017 (139.56) and 2020 (136.74). His batting average reached an exceptional high of 55.00 in 2014, but has shown significant variability, culminating in a lower average of 14.50 in 2024, reflecting recent performance challenges.**
 
+## Analysis of Virat Kohli’s Batting Averages (2010-2024)
+
+- **2010-2014:** Kohli’s averages show significant variability over these years. In 2010, his average was 26.00, which dropped to 15.25 in 2011. However, his performance improved in 2012 (36.23) and saw a remarkable peak in 2014 with an exceptional average of 55.00.
+- **2015-2019:** After a strong performance in 2014, Kohli’s average decreased to 22.00 in 2015 but rebounded in 2019 with a high average of 46.60. The averages during these years highlight fluctuations in his performance.
+- **2020-2024:** Kohli’s average showed some stability with values such as 32.78 in 2020 and 37.38 in 2021. However, there was a notable decline in 2024, where his average dropped significantly to 14.50, indicating recent challenges in his batting performance.
+
+## Summary
+
+**From 2010 to 2024, Virat Kohli’s batting averages have shown considerable fluctuations. After a notable peak in 2014 with an average of 55.00, his performance varied with highs and lows. Recent years, especially 2024, have seen a significant drop to an average of 14.50, reflecting recent challenges in his batting performance.**
+
+![image](https://github.com/user-attachments/assets/5f7e95cf-d79d-49c9-97a8-7c07ebe191dc)
 
