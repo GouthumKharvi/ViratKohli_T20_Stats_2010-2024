@@ -270,6 +270,7 @@ This data offers a comparative view of cricket teams' batting performance, provi
 ## Accessing Slicer Features
 
 **To explore the slicer features for detailed analysis, please open the `.xlsx` file included in this project using Excel on your desktop.** The slicers will help you filter and view Kohli’s yearly runs against different teams effectively.
+
 ---
 
 ## Analysis of Virat Kohli’s 4s and 6's (2010-2024)
@@ -300,6 +301,7 @@ This data offers a comparative view of cricket teams' batting performance, provi
 
 **To explore the slicer features for detailed analysis, please open the `.xlsx` file included in this project using Excel on your desktop.** The slicers will help you filter and view Kohli’s yearly 4s and 6s yearly and ball faced  against different teams effectively.
 
+---
 
 # Analysis of Virat Kohli’s Dismissal Types
 
@@ -334,6 +336,7 @@ The data below categorizes the different types of dismissals experienced by Vira
 
 **To analyze Kohli's types of dismissals in T20 International cricket against different teams, use the slicer features in the provided `.xlsx` file.** Open the file using Excel on your desktop, and you will be able to filter and view his dismissal types by opposition team. This will provide detailed insights into his performance against various teams.
 
+---
 
 # Analysis of Duck Outs
 
@@ -355,6 +358,7 @@ The data below details instances where Virat Kohli was dismissed without scoring
 
 ![image](https://github.com/user-attachments/assets/2ebbefdd-02ed-43ca-83b9-e463b20417fd)
 
+---
 
 # Analysis of Duckout Dismissals by Opposition
 
@@ -386,7 +390,7 @@ The data below shows the number of times Virat Kohli was dismissed for a duck ag
 ![image](https://github.com/user-attachments/assets/fbfb575e-aee5-4b14-871d-009e2bcb0738)
 
 
-
+---
 
 # Analysis of Virat Kohli’s Highest Scores in India
 
@@ -457,7 +461,7 @@ The following data lists Virat Kohli’s highest individual scores in matches pl
 **Virat Kohli's highest individual scores across various Indian cities show a wide range of performances. His top score is 94 runs in Hyderabad, demonstrating his peak performance in India. Other notable scores include 89 runs at Wankhede and 82 runs in Mohali. Kohli has had several strong performances, particularly in cities like Ahmedabad, Mirpur, and Bengaluru, where he scored 80, 77, and 72 runs, respectively. The data highlights his ability to deliver high scores at various venues across the country.**
 
 
-
+---
 
 # Analysis of Virat Kohli’s Lowest Scores in India
 
@@ -527,6 +531,7 @@ The following data lists Virat Kohli’s highest individual scores in matches pl
 
 **Virat Kohli’s lowest scores across various Indian cities range from ducks (0 runs) in Ahmedabad, Guwahati, and Bengaluru to a highest low of 70 runs in Chennai. The data highlights a range of low performances, with some cities showing notably high scores as the lowest. Kohli has experienced a mix of very low scores and more substantial performances, reflecting his overall consistency and occasional struggles in different conditions.**
 
+---
 
 # **Analysis of Virat Kohli’s Highest Scores Outside India**
 
@@ -612,6 +617,7 @@ The following data lists Virat Kohli’s highest individual scores in matches pl
 
 **Virat Kohli’s highest scores outside India show a wide range of performances, with his best being 122 runs in Dubai. Other notable high scores include 90 runs in Adelaide and 85 runs in Sydney. The data also highlights several lower scores, with his lowest being just 1 run in Centurion. This analysis reflects Kohli’s ability to perform at various international venues, showcasing his highest and lowest performances.**
 
+---
 
 ## Analysis of Virat Kohli’s Lowest Scores Outside India
 
@@ -679,7 +685,7 @@ The following data lists Virat Kohli’s lowest individual scores in matches pla
 
 **Virat Kohli’s lowest scores outside India range from 0 runs in Dubai (DSC) and Dublin (Malahide) to a highest low of 59 runs in Providence. The data highlights his struggles with very low scores in some venues while showcasing his capacity for high performances in others. This analysis provides insight into Kohli’s performance variations across different international venues.**
 
-
+---
 
 ## Run Rate Dynamics: Kohli's Runs Scored Relative to Balls Faced
 
@@ -692,6 +698,7 @@ This analysis focuses on **Virat Kohli's run rate dynamics**, examining how his 
 ![image](https://github.com/user-attachments/assets/576e57f7-fdcb-4158-ad95-a1bfa708c217)
 
 
+---
 
 
 # Analysis of Virat Kohli’s Performance by Batting Order
@@ -740,6 +747,7 @@ This analysis provides insights into Virat Kohli’s performance across differen
 ![image](https://github.com/user-attachments/assets/5079dda4-b98e-4e5b-97eb-d455424e35b9)
 
 
+---
 
 # Kohli’s Innings Comparison: First vs. Second Innings
 
@@ -769,6 +777,8 @@ To delve deeper into Kohli's performance against different opposition teams in t
 
 **Virat Kohli's performance in the first innings (2,025 runs) is slightly higher compared to the second innings (2,012 runs). This comparison highlights his consistent ability to score runs in both innings, reflecting his overall effectiveness and adaptability in different match situations.**
 
+
+---
 
 
 # Kohli’s Innings Comparison: Strike Rate and Average
@@ -805,6 +815,8 @@ To explore Kohli’s performance further, including how his strike rate and aver
 ![image](https://github.com/user-attachments/assets/7b367e77-c82a-4da2-b76a-76fa53bfec5e)
 
 
+---
+
 # Kohli’s Boundaries Comparison: First vs. Second Innings
 
 ### Overview
@@ -836,6 +848,8 @@ For a more detailed analysis of how Kohli’s boundary-hitting performance varie
 
 **Virat Kohli’s boundary statistics show a higher count of fours and sixes in the first innings (63 each) compared to the second innings (46 each). This indicates a more aggressive boundary-hitting performance in the first innings, with a slightly lower but still effective boundary-scoring rate in the second innings. This comparison provides insight into Kohli’s ability to hit boundaries and his approach in different innings.**
 
+
+---
 
 
 # Important Notes on Wicket Counts Across Venues
@@ -886,6 +900,8 @@ To explore how these wicket counts and their implications vary against different
 
 ![image](https://github.com/user-attachments/assets/e58e80e6-d539-4179-bbdf-c9ae0213049c)
 
+
+---
 
 
 # Kohli’s Highest Scores at Different Venues
@@ -946,6 +962,8 @@ This analysis highlights Virat Kohli’s top individual scores at various cricke
 ![image](https://github.com/user-attachments/assets/1f3ffa82-cf49-4a2a-8a3c-2c00a62eca24)
 
 
+---
+
 
 ## Virat Kohli’s T20 Performances (2010-2024)
 
@@ -993,6 +1011,8 @@ To gain deeper insights into Kohli’s performances, including his scores and di
 ![image](https://github.com/user-attachments/assets/104d78b0-ba86-499f-9b66-af0fd0c5ac61)
 
 
+---
+
 
 # Virat Kohli’s T20 Half-Centuries and Centuries
 
@@ -1013,6 +1033,8 @@ To gain deeper insights into Kohli’s performances, including his scores and di
 
 **Virat Kohli’s record in T20 Internationals showcases his prolific batting ability with 37 half-centuries and 1 century. His consistent performance in scoring half-centuries demonstrates his reliability in contributing significant runs, while the century reflects his potential to deliver exceptional individual innings.**
 
+
+---
 
 
 ## Virat Kohli’s T20 Half-Centuries and Centuries by Country
@@ -1100,6 +1122,9 @@ To gain deeper insights into Kohli’s performances, including his scores and di
 **Virat Kohli’s T20 International performances against various countries show a pattern of consistent half-centuries, with notable high scores against teams like Australia and West Indies. His single century against Afghanistan stands out, highlighting a significant individual achievement. The absence of half-centuries and centuries against teams like Scotland, Zimbabwe, and Ireland indicates that Kohli has not yet recorded significant performances against these sides.**
 
 ![image](https://github.com/user-attachments/assets/840b4581-5d1f-4538-b33a-fb14754d196c)
+
+
+---
 
 
 # Virat Kohli’s Strike Rates and Average Across Indian Venues
@@ -1212,6 +1237,9 @@ To gain deeper insights into Kohli’s performances, including his scores and di
 ### Summary
 
 **Virat Kohli’s performance across various Indian venues shows a range of averages and strike rates. He has excelled in venues like Hyderabad, Chennai, and Wankhede with high averages and strike rates, reflecting strong and aggressive batting. Conversely, venues like Cuttack, Bengaluru, and Guwahati show lower averages and strike rates, indicating less effective performances. This diverse performance data highlights Kohli’s adaptability and varying success levels across different grounds in India.**
+
+
+---
 
 
 # Virat Kohli’s Batting Strike Rates and Averag Across Venues Outside India
@@ -1355,6 +1383,9 @@ To gain deeper insights into Kohli’s performances, including his scores and di
 
 **Virat Kohli’s performance across various venues outside India shows a wide range of averages and strike rates. He has excelled in venues like Pallekele, Adelaide, and Providence with high averages and strike rates, reflecting strong and aggressive batting. Conversely, venues like Centurion, Brisbane, and Dublin (Malahide) present lower averages and strike rates, indicating significant challenges and less effective performance. This diverse data highlights Kohli’s adaptability and varying success levels across different international grounds.**
 
+---
+
+
 
 ## Comparison of Kohli’s Performance: India vs. Outside India
 
@@ -1404,6 +1435,9 @@ To gain deeper insights into Kohli’s performances, including his scores and di
 
 **This analysis highlights Kohli’s generally stronger performances in Indian venues with higher averages and strike rates compared to his performances outside India. However, his ability to adapt is evident as he has also managed notable performances abroad despite varying conditions.**
 
+
+
+---
 
 
 # Excel Functions for Data Analysis
