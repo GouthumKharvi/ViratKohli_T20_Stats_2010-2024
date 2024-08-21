@@ -460,7 +460,8 @@ The following data lists Virat Kohli’s highest individual scores in matches pl
 - **Centurion:** 1 run
   - Kohli’s lowest score outside India is 1 run in Centurion, marking his poorest performance in this dataset.
 
-    ![image](https://github.com/user-attachments/assets/99e17773-bfd3-417c-97f2-5c0389fd12c8)
+    
+![kohli Highest runs in outside india](https://github.com/user-attachments/assets/4fb81eee-dd61-4852-b1b1-033237f7f58c)
 
 
 ## Summary
