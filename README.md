@@ -96,3 +96,29 @@ This data offers a comparative view of cricket teams' batting performance, provi
 
 ![image](https://github.com/user-attachments/assets/5f7e95cf-d79d-49c9-97a8-7c07ebe191dc)
 
+
+## Analysis of Virat Kohli’s Yearly Runs (2010-2024)
+
+- **2010:** Kohli scored 26 runs, marking a relatively modest performance.
+- **2011:** His runs increased to 61, showing improvement from the previous year.
+- **2012:** Kohli had a significant surge in runs with 471, highlighting a standout year.
+- **2013:** His performance dropped to 29 runs, indicating a challenging year.
+- **2014:** Kohli scored 385 runs, a notable recovery but still below his peak.
+- **2015:** With 44 runs, his performance was low compared to previous years.
+- **2016:** Kohli excelled with 641 runs, marking one of his most prolific years.
+- **2017:** He scored 299 runs, showing strong performance but lower than 2016.
+- **2018:** His runs were 211, reflecting a decline from previous years.
+- **2019:** Kohli had another strong year with 466 runs.
+- **2020:** He scored 295 runs, maintaining a solid performance level.
+- **2021:** Kohli scored 299 runs, consistent with the previous year.
+- **2022:** He had a remarkable year with 781 runs, his highest total in the given period.
+- **2024:** Kohli scored 29 runs, indicating a significant drop from the previous year.
+
+## Summary
+
+**From 2010 to 2024, Virat Kohli’s yearly runs display considerable variability. After a modest start in 2010, Kohli experienced significant peaks, notably in 2012 (471 runs) and 2022 (781 runs). The period also includes several downturns, particularly in 2013 (29 runs) and 2015 (44 runs), as well as a recent drop in 2024 with only 29 runs. The data reflects both remarkable achievements and periods of struggle throughout his career.**
+
+## Accessing Slicer Features
+
+**To explore the slicer features for detailed analysis, please open the `.xlsx` file included in this project using Excel on your desktop.** The slicers will help you filter and view Kohli’s yearly runs against different teams effectively.
+
