@@ -11,7 +11,7 @@
 
 
 
-**Total runs and total balls faced against each unique opposition, along with the number of matches. using 3d Clustered columns Bar chart to show the visulazation of Matches Playes, Total runs and Total ball placed.**
+**Total runs and total balls faced against each unique opposition, along with the number of matches. using 3d Clustered columns Bar chart to show the visulazation of Matches Playes, Total runs and Total ball placed.** 
 
 ![Kohli(Total_Runs, ,Ball Faced   Match Played) Against Unique Team](https://github.com/user-attachments/assets/24aad8ad-2bc4-4c29-a07a-8faba0ae2be5)
 
