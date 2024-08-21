@@ -1,6 +1,7 @@
 <p align="center">
-  <span style="font-size: 24px; font-weight: bold;">Virat Kohli's Complete T20 Performance Analysis (2010-2024)</span>
+  <strong><big> Virat Kohli's Complete T20 Performance Analysis (2010-2024)</big></strong>
 </p>
+
 
 ![vk18](https://github.com/user-attachments/assets/e31bcce7-e02a-4c50-a602-5f598c070e98)
 
