@@ -114,9 +114,15 @@ This data offers a comparative view of cricket teams' batting performance, provi
 - **2022:** He had a remarkable year with 781 runs, his highest total in the given period.
 - **2024:** Kohli scored 29 runs, indicating a significant drop from the previous year.
 
+  ![image](https://github.com/user-attachments/assets/3ecd65f4-6dba-4d65-8658-bfe72c5789ab)
+
+
 ## Summary
 
 **From 2010 to 2024, Virat Kohli’s yearly runs display considerable variability. After a modest start in 2010, Kohli experienced significant peaks, notably in 2012 (471 runs) and 2022 (781 runs). The period also includes several downturns, particularly in 2013 (29 runs) and 2015 (44 runs), as well as a recent drop in 2024 with only 29 runs. The data reflects both remarkable achievements and periods of struggle throughout his career.**
+
+![image](https://github.com/user-attachments/assets/96c779dc-c23d-4253-bbb8-bce668ec469d)
+
 
 ## Accessing Slicer Features
 
