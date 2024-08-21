@@ -7,6 +7,133 @@
 
 
 
+# Project Index: Analysis of Virat Kohli's T20 International Records (2010-2024)
+
+Virat Kohli, one of the premier batsmen in the world, has played in all three formats for India. This project provides an in-depth analysis of his T20 International career from 2010 to 2024 using Excel. The analysis leverages various Excel functions and visualization techniques to present detailed insights into Kohli’s performance.
+
+## Analysis Covered:
+
+1. **Total Runs and Balls Faced**
+   - Analysis of total runs and balls faced against each unique opposition, with match counts.
+   - **Visualization:** 3D Clustered Columns Bar Chart.
+
+2. **Performance at Different Grounds and Countries**
+   - Kohli’s matches at various grounds and countries.
+   - **Visualization:** 3D Clustered Columns Bar Chart.
+
+3. **Strike Rate and Averages Across Teams**
+   - Kohli’s strike rates and averages against all teams.
+   - **Visualization:** 2D Line with Markers Chart.
+
+4. **Highest Averages Across Teams**
+   - Kohli’s highest batting averages against different teams.
+   - **Visualization:** 2D Line with Markers Chart.
+
+5. **Performance Metrics: Strike Rate and Average (2010-2024)**
+   - Analysis of Kohli’s strike rate and average over the years.
+   - **Visualization:** 2D Line with Markers Chart.
+
+6. **Yearly Runs Analysis (2010-2024)**
+   - Kohli’s yearly run totals with a Slicer feature for team-specific performance.
+   - **Visualization:** 2D Line with Markers Chart.
+
+7. **Boundaries Analysis (2010-2024)**
+   - Total number of fours and sixes each year, with a Slicer feature for country-specific results.
+   - **Visualization:** 2D Line with Markers Chart.
+
+8. **Dismissal Types**
+   - Analysis of different dismissal types.
+   - **Visualization:** 3D Pie Chart.
+   - Sub-analysis: Dismissal Types Against Different Teams.
+
+9. **Duck Outs Analysis**
+   - Analysis of duck outs.
+   - **Visualization:** 3D Pie Chart.
+
+10. **Duckout Dismissals by Opposition**
+    - Analysis of duckout dismissals against various oppositions.
+    - **Visualization:** Doughnut Chart.
+
+11. **Highest Scores in India**
+    - Kohli’s highest scores within India.
+    - **Visualization:** 3D Clustered Bar Chart.
+    - Sub-analysis: Lowest Scores in India.
+
+12. **Lowest Runs in Indian Grounds**
+    - Analysis of Kohli’s lowest runs on Indian grounds.
+    - **Visualization:** 3D Clustered Bar Chart.
+
+13. **Highest Scores Outside India**
+    - Kohli’s highest scores outside India.
+    - **Visualization:** 3D Clustered Bar Chart.
+
+14. **Lowest Scores Outside India**
+    - Analysis of Kohli’s lowest scores outside India.
+    - **Visualization:** 3D Clustered Bar Chart.
+
+15. **Lowest Runs on Grounds Outside India**
+    - Analysis of Kohli’s lowest runs on overseas grounds.
+    - **Visualization:** 3D Clustered Bar Chart.
+
+16. **Run Rate Dynamics**
+    - Kohli’s runs scored relative to balls faced.
+    - **Visualization:** 3D Clustered Columns Chart.
+
+17. **Performance by Batting Order**
+    - Analysis of Kohli’s performance by batting order.
+    - **Visualization:** 3D Clustered Bar Chart.
+
+18. **Innings Comparison: First vs. Second**
+    - Comparison of Kohli’s performance in first versus second innings.
+    - **Visualization:** 3D Clustered Bar Chart.
+    - Optional: Slicer for opposition results.
+
+19. **Innings Comparison: Strike Rate and Average**
+    - Comparison of strike rates and averages in first versus second innings.
+    - **Visualization:** 3D Clustered Bar Chart.
+    - Optional: Slicer for opposition results.
+
+20. **Boundaries Comparison: First vs. Second Innings**
+    - Comparison of boundaries scored in first versus second innings.
+    - **Visualization:** 3D Clustered Bar Chart.
+    - Optional: Slicer for opposition results.
+
+21. **Wicket Counts Across Venues**
+    - Analysis of wickets taken across different venues.
+    - **Visualization:** 2D Clustered Columns Chart.
+    - Optional: Slicer for opposition results.
+
+22. **Highest Scores at Different Venues**
+    - Kohli’s highest scores at various venues.
+    - **Visualization:** 3D Clustered Column Chart.
+
+23. **Overall T20 Performances (2010-2024)**
+    - Comprehensive overview of Kohli’s T20 performances over the years.
+    - **Visualization:** 3D Clustered Column Chart.
+    - Optional: Slicer for opposition results.
+
+24. **Half-Centuries and Centuries**
+    - Analysis of Kohli’s T20 half-centuries and centuries.
+    - **Visualization:** 3D Clustered Column Chart.
+
+25. **Half-Centuries and Centuries by Country**
+    - Breakdown of half-centuries and centuries by country.
+    - **Visualization:** 3D Clustered Column Chart.
+
+26. **Strike Rates and Averages Across Indian Venues**
+    - Analysis of Kohli’s strike rates and averages at Indian venues.
+    - **Visualization:** 2D Line with Markers Chart.
+
+27. **Batting Strike Rates and Averages Across Overseas Venues**
+    - Analysis of Kohli’s strike rates and averages at venues outside India.
+    - **Visualization:** 2D Line with Markers Chart.
+
+28. **Excel Functions for Data Analysis**
+    - Utilized Excel functions: VLOOKUP, SUMIF, SUMIFS, AVERAGEIF, AVERAGEIFS, COUNTIF, COUNTIFS.
+
+---
+
+This Markdown format will create a structured and easy-to-read index for your README file on GitHub.
 
 
 
