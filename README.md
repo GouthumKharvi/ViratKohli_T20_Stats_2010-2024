@@ -1,8 +1,10 @@
-Total runs and total balls faced against each unique opposition, along with the number of matches. using 3d Clustered columns Bar chart to show the visulazation of Matches Playes, Total runs and Total ball placed.
+**Total runs and total balls faced against each unique opposition, along with the number of matches. using 3d Clustered columns Bar chart to show the visulazation of Matches Playes, Total runs and Total ball placed.**
+
 ![Kohli(Total_Runs, ,Ball Faced   Match Played) Against Unique Team](https://github.com/user-attachments/assets/24aad8ad-2bc4-4c29-a07a-8faba0ae2be5)
 
 
 **Virat Kohli has played matches at various grounds and countries as follows:** Cardiff, Brisbane, Harare, Johannesburg, Port of Spain, Kanpur, Ranchi, Kingston, Chennai, Cuttack, Perth, Delhi, Providence, Dharamsala, Centurion, Bristol, Hamilton, Canberra, Visakhapatnam, Durban, Wellington, Nottingham, and Pallekele each hosted 1 match; Manchester, Rajkot, Pune, Guwahati, Dublin (Malahide), Birmingham, Auckland, Indore, and Hyderabad each hosted 2 matches; Nagpur, Mohali, Thiruvananthapuram, Lauderhill, and Wankhede each hosted 3 matches; Adelaide hosted 3 matches; Melbourne, Eden Gardens, Sydney, Ahmedabad, Bengaluru, and Colombo (RPS) each hosted 6 matches; Dubai (DSC) hosted 8 matches; and Mirpur hosted 10 matches. using 3d columns as bar chart 
+
 ![Grounds(Played By Virat Kohli)2010-2024](https://github.com/user-attachments/assets/32af0c51-0eb2-42b3-bce3-10d3d0b1f8a7)
 
 
