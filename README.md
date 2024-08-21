@@ -133,7 +133,7 @@ Virat Kohli, one of the premier batsmen in the world, has played in all three fo
 
 ---
 
-This Markdown format will create a structured and easy-to-read index for your README file on GitHub.
+
 
 
 
