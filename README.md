@@ -46,23 +46,23 @@ This data offers a comparative view of cricket teams' batting performance, provi
 ## Key Notes
 
 ### Top Performers
-- **Netherlands** Kohli has the highest batting average at 62, indicating exceptional performance and consistency.
+- **Netherlands :** Kohli has the highest batting average at 62, indicating exceptional performance and consistency.
 - **Hong Kong** follows closely with an average of 59, also showing strong batting performance.
 
 ### High Averages
-- **Afghanistan** kohli has a notable average of 50.25, reflecting solid and consistent batting.
+- **Afghanistan :** kohli has a notable average of 50.25, reflecting solid and consistent batting.
 - **Pakistan** and **Sri Lanka** have high averages of 48.8 and 48.43, respectively, demonstrating their strong batting capabilities.
 
 ### Mid-Range Averages
-- **West Indies** kohli has an average of 43.85, which is strong but lower than the top teams.
-- **Bangladesh** (38.6) and **Australia** (37.81) also have respectable averages, showing good performance levels.
+- **West Indies :** kohli has an average of 43.85, which is strong but lower than the top teams.
+- **Bangladesh :** (38.6) and **Australia** (37.81) also have respectable averages, showing good performance levels.
 
 ### Lower Averages
-- **England** and **New Zealand** kohli have lower averages at 31.95 and 31.1, indicating moderate batting performance compared to the higher averages.
+- **England** and **New Zealand :** kohli have lower averages at 31.95 and 31.1, indicating moderate batting performance compared to the higher averages.
 - **South Africa** (26.5) and **Zimbabwe** (26) show even lower averages, suggesting less consistent performance.
 
 ### Struggling Teams
-- **Ireland** kohli has a significantly low average of 4.5, highlighting considerable difficulties in their batting performance.
+- **Ireland :** kohli has a significantly low average of 4.5, highlighting considerable difficulties in their batting performance.
 - **Scotland**  kohli has the lowest average at 2, indicating major challenges and poor performance in batting.
 
 
