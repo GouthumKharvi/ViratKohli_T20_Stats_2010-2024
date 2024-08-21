@@ -1,0 +1,29 @@
+## Project Overview
+
+This project provides an in-depth analysis of Virat Kohli's T20 International career statistics from 2010 to 2024 using Excel. It includes detailed match-by-match performance data, high scores, and various performance metrics.
+
+## Instructions for Use
+
+1. Open the provided Excel files using Microsoft Excel or compatible spreadsheet software.
+2. Review the data and visualizations presented in the different sheets.
+3. Use the slicers and charts to explore various aspects of Kohli’s performance.
+
+## Excel Functions Used
+
+- `SUMIF`
+- `SUMIFS`
+- `COUNTIF`
+- `COUNTIFS`
+- `AVERAGEIF`
+- `AVERAGEIFS`
+- `VLOOKUP`
+
+## Visualizations
+
+The project includes various charts such as:
+- 3D Clustered Columns
+- 2D Line with Markers
+- 3D Pie Charts
+- Doughnut Charts
+
+These visualizations provide insights into Kohli’s performance trends, high scores, boundary counts, and more.
