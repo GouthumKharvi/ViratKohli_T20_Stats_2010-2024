@@ -155,3 +155,46 @@ This data offers a comparative view of cricket teams' batting performance, provi
 ![image](https://github.com/user-attachments/assets/25ac28d9-b5d4-40d4-a0a4-f24a76081773)
 
 **To explore the slicer features for detailed analysis, please open the `.xlsx` file included in this project using Excel on your desktop.** The slicers will help you filter and view Kohli’s yearly 4s and 6s yearly and ball faced  against different teams effectively.
+
+
+# Analysis of Virat Kohli’s Dismissal Types
+
+The data below categorizes the different types of dismissals experienced by Virat Kohli:
+
+- **Bowled:** 9 dismissals
+  - Kohli was bowled out 9 times, indicating instances where the ball hit the stumps and removed his wicket.
+  
+- **Caught:** 59 dismissals
+  - The highest number of dismissals, with Kohli being caught out 59 times. This includes catches by fielders or the wicketkeeper.
+  
+- **LBW (Leg Before Wicket):** 3 dismissals
+  - Kohli was dismissed LBW 3 times, where the ball hit his body before hitting the bat, and the umpire judged that it would have gone on to hit the stumps.
+  
+- **Not Out:** 31 instances
+  - Kohli remained not out 31 times, meaning he was not dismissed in these instances and completed his innings.
+
+- **Run Out:** 6 dismissals
+  - Kohli was run out 6 times, where he was dismissed due to the opposing team hitting the stumps while he was attempting a run.
+
+- **Stumped:** 1 dismissal
+  - Kohli was stumped once, where the wicketkeeper removed the bails while Kohli was out of his crease.
+
+    ![image](https://github.com/user-attachments/assets/a65c74f9-3da8-441b-a8b7-2655ae268433)
+
+
+## Summary
+
+**Virat Kohli’s dismissal data shows that being caught out is the most frequent type of dismissal, with 59 occurrences. The other common dismissal types include being bowled (9 times) and run out (6 times). He has a notable number of not outs (31), reflecting periods where he successfully avoided dismissal. LBW and stumped dismissals are relatively rare, with 3 and 1 occurrence respectively.**
+
+## Exploring Dismissal Types Against Different Teams
+
+**To analyze Kohli's types of dismissals in T20 International cricket against different teams, use the slicer features in the provided `.xlsx` file.** Open the file using Excel on your desktop, and you will be able to filter and view his dismissal types by opposition team. This will provide detailed insights into his performance against various teams.
+
+
+
+
+
+
+
+
+
