@@ -244,7 +244,142 @@ The data below shows the number of times Virat Kohli was dismissed for a duck ag
 
 
 
+# Analysis of Virat Kohli’s Highest Scores in India
+
+The following data lists Virat Kohli’s highest individual scores in matches played across different Indian cities:
+
+- **Thiruvananthapuram:** 19 runs
+  - Kohli’s highest score in Thiruvananthapuram is 19, indicating a modest performance in this venue.
+
+- **Ranchi:** 22 runs
+  - In Ranchi, Kohli’s top score is 22, reflecting a performance that is relatively lower compared to other venues.
+
+- **Nagpur:** 23 runs
+  - Kohli scored 23 runs in Nagpur, showing a slightly better but still modest performance.
+
+- **Visakhapatnam:** 24 runs
+  - His highest score in Visakhapatnam is 24, demonstrating a slightly improved performance.
+
+- **Delhi:** 26 runs
+  - Kohli’s top score in Delhi is 26, indicating a solid but not standout performance.
+
+- **Pune:** 26 runs
+  - Kohli scored 26 runs in Pune, matching his highest score in Delhi.
+
+- **Kanpur:** 29 runs
+  - In Kanpur, Kohli achieved a score of 29, showcasing a respectable performance.
+
+- **Indore:** 30 runs
+  - His highest score in Indore is 30, indicating a solid performance at this venue.
+
+- **Dharamsala:** 43 runs
+  - Kohli scored 43 runs in Dharamsala, reflecting a notable performance.
+
+- **Guwahati:** 49 runs
+  - His top score in Guwahati is 49, showing a strong performance.
+
+- **Eden Gardens:** 55 runs
+  - Kohli’s highest score at Eden Gardens is 55, demonstrating a significant performance.
+
+- **Rajkot:** 65 runs
+  - In Rajkot, Kohli scored 65 runs, indicating an impressive performance.
+
+- **Chennai:** 70 runs
+  - Kohli’s highest score in Chennai is 70, showing a very strong performance.
+
+- **Bengaluru:** 72 runs
+  - His top score in Bengaluru is 72, reflecting a high level of performance.
+
+- **Mirpur:** 77 runs
+  - Kohli achieved 77 runs in Mirpur, showcasing a dominant performance.
+
+- **Ahmedabad:** 80 runs
+  - His highest score in Ahmedabad is 80, indicating a standout performance.
+
+- **Mohali:** 82 runs
+  - Kohli scored 82 runs in Mohali, demonstrating a top-tier performance.
+
+- **Wankhede:** 89 runs
+  - His highest score at Wankhede is 89, marking an excellent performance.
+
+- **Hyderabad:** 94 runs
+  - Kohli’s highest score in Hyderabad is 94, his best performance in Indian grounds listed here.
+
+    ![image](https://github.com/user-attachments/assets/b02fa3f7-9ae2-4aaa-93e5-eff585ec554d)
+
+
+## Summary
+
+**Virat Kohli's highest individual scores across various Indian cities show a wide range of performances. His top score is 94 runs in Hyderabad, demonstrating his peak performance in India. Other notable scores include 89 runs at Wankhede and 82 runs in Mohali. Kohli has had several strong performances, particularly in cities like Ahmedabad, Mirpur, and Bengaluru, where he scored 80, 77, and 72 runs, respectively. The data highlights his ability to deliver high scores at various venues across the country.**
 
 
 
+
+# Analysis of Virat Kohli’s Lowest Scores in India
+
+**The following data shows Virat Kohli’s lowest individual scores in matches played across different Indian cities, arranged from the lowest to the highest score:**
+
+- **Ahmedabad:** 0 runs
+  - Kohli was dismissed for a duck (0 runs) in Ahmedabad, marking his lowest score in this dataset.
+
+- **Guwahati:** 0 runs
+  - He also scored 0 runs in Guwahati, reflecting another duck.
+
+- **Bengaluru:** 0 runs
+  - Kohli was out for a duck (0 runs) in Bengaluru, his third duck in this dataset.
+
+- **Mohali:** 2 runs
+  - His lowest score in Mohali is 2 runs, showing a very low performance.
+
+- **Thiruvananthapuram:** 3 runs
+  - Kohli scored 3 runs in Thiruvananthapuram, indicating a very low score.
+
+- **Mirpur:** 7 runs
+  - His lowest score in Mirpur is 7 runs, reflecting a low performance.
+
+- **Nagpur:** 11 runs
+  - Kohli’s lowest score in Nagpur is 11 runs, showing a relatively low performance.
+
+- **Eden Gardens:** 15 runs
+  - Kohli scored 15 runs at Eden Gardens, reflecting a lower yet decent performance.
+
+- **Pune:** 21 runs
+  - His lowest score in Pune is 21 runs, indicating a slightly lower performance.
+
+- **Ranchi:** 22 runs
+  - Kohli’s lowest score in Ranchi is 22 runs, reflecting a moderate performance.
+
+- **Visakhapatnam:** 24 runs
+  - His lowest score in Visakhapatnam is 24 runs, showing a moderate level of performance.
+
+- **Delhi:** 26 runs
+  - Kohli scored 26 runs in Delhi, demonstrating a fair performance.
+
+- **Kanpur:** 29 runs
+  - His lowest score in Kanpur is 29 runs, matching his lowest scores in Rajkot and Indore.
+
+- **Indore:** 29 runs
+  - Kohli’s lowest score in Indore is 29 runs, showing a consistent performance with Kanpur.
+
+- **Rajkot:** 29 runs
+  - His lowest score in Rajkot is 29 runs, reflecting a decent performance similar to Indore and Kanpur.
+
+- **Wankhede:** 38 runs
+  - Kohli scored 38 runs at Wankhede, indicating a lower yet respectable performance.
+
+- **Dharamsala:** 43 runs
+  - His lowest score in Dharamsala is 43 runs, showing a relatively higher performance.
+
+- **Hyderabad:** 63 runs
+  - Kohli’s lowest score in Hyderabad is 63 runs, reflecting a strong performance.
+
+- **Chennai:** 70 runs
+  - His lowest score in Chennai is 70 runs, demonstrating a high level of performance.
+  - 
+  - ![image](https://github.com/user-attachments/assets/3026c4f7-6bce-4f62-b7b1-14d60040fb87)
+
+
+## Summary
+
+**Virat Kohli’s lowest scores across various Indian cities range from ducks (0 runs) in Ahmedabad, Guwahati, and Bengaluru to a highest low of 70 runs in Chennai. The data highlights a range of low performances, with some cities showing notably high scores as the lowest. Kohli has experienced a mix of very low scores and more substantial performances, reflecting his overall consistency and occasional struggles in different conditions.**
 
