@@ -127,7 +127,7 @@ Virat Kohli, one of the premier batsmen in the world, has played in all three fo
 27. **Batting Strike Rates and Averages Across Overseas Venues**
     - Analysis of Kohli’s strike rates and averages at venues outside India.
     - **Visualization:** 2D Line with Markers Chart.
-
+ 
 28. **Excel Functions for Data Analysis**
     - Utilized Excel functions: VLOOKUP, SUMIF, SUMIFS, AVERAGEIF, AVERAGEIFS, COUNTIF, COUNTIFS.
 
