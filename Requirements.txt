@@ -18,6 +18,10 @@ This project provides an in-depth analysis of Virat Kohli's T20 International ca
 - `AVERAGEIFS`
 - `VLOOKUP`
 
+##Table used for chart
+
+- `Pivot table`
+
 ## Visualizations
 
 The project includes various charts such as:
@@ -27,3 +31,10 @@ The project includes various charts such as:
 - Doughnut Charts
 
 These visualizations provide insights into Kohli’s performance trends, high scores, boundary counts, and more.
+
+
+## Slicer 
+
+Slicers are visual tools in Excel (and other spreadsheet software) that provide a user-friendly way to filter data in PivotTables, PivotCharts, and Excel tables. They enhance the interactivity and accessibility of data analysis by offering a visual interface for filtering.
+
+
